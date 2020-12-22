@@ -5,5 +5,5 @@ this is a  straightforward example of how to generate a signed  packet for tezos
  
 ```javascript
 npm run watch 
-execute tezos_for_w_sign.js
+node tezos_forge_w_sign.js
 ```
