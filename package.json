@@ -1,0 +1,30 @@
+{
+  "name": "tezos_forge_w_sign_labs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "watch": "tsc -w",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@taquito/rpc": "^7.0.1-beta.0",
+    "@taquito/signer": "^7.0.1-beta.0",
+    "@taquito/taquito": "^7.0.1-beta.0",
+    "@types/node": "^14.14.14",
+    "@types/node-fetch": "^2.5.7",
+    "big-integer": "^1.6.48",
+    "blakejs": "^1.1.0",
+    "bs58check": "^2.1.2",
+    "conseiljs": "^5.0.5",
+    "conseiljs-softsigner": "^5.0.3",
+    "eslint": "^7.16.0",
+    "generate-password": "^1.5.1",
+    "libsodium-wrappers-sumo": "^0.7.8",
+    "loglevel": "^1.7.1",
+    "node-fetch": "^2.6.1",
+    "sotez": "^7.0.0"
+  }
+}
